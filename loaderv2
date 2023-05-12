@@ -1,0 +1,24 @@
+--Provided to you by Doge Friend YT! https://youtube.com/@dogefriend
+
+--BUBBLE GUM SIMULATOR--    
+if game.PlaceId == 2512643572 then
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("TACO HUB", "GrapeTheme")
+local Tab = Window:NewTab("Bubble Gum Simulator")
+local Section = Tab:NewSection("Bubble Gum Simulator Scripts")
+Section:NewButton("GUI", "Executes a GUI", function()
+    loadstring(game:HttpGet"https://pastebin.com/raw/bZb7YFEZ")()
+    print("Clicked")
+end)
+
+--CART RIDE AROUND NOTHING--
+elseif game.PlaceId == 10660791703 then
+    local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+    local Window = Library.CreateLib("TACO HUB", "GrapeTheme")
+    local Tab = Window:NewTab("Cart Ride Around Nothing")
+    local Section = Tab:NewSection("Scripts")
+    local Section = Tab:NewSection("Key:NewCartRide^^778871!!")
+    Section:NewButton("GUI", "Executes a GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Cart-Ride12/main/Cart%20Ride%20Around"))()
+        print("Clicked")
+    end)
